@@ -1,0 +1,15 @@
+{
+  "name": "adu-tcp-server",
+  "version": "1.0.0",
+  "description": "adu tcp server for test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "adu",
+    "tcp"
+  ],
+  "author": "Billy",
+  "license": "ISC"
+}
